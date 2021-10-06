@@ -1,3 +1,3 @@
 <?php 
-echo "Soy el config"
+echo "Soy el config "
 ?>
